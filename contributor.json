@@ -1,0 +1,27 @@
+[
+    {
+        "name": "Steve Yonkeu",
+        "github_handle": "yokwejuste",
+        "hacktoberfest_round": "third",
+        "role": [
+            "maintainer",
+            "contributor"
+        ]
+    },
+    {
+        "name": "Fisher Monk",
+        "github_handle": "fisherman20183698",
+        "hacktoberfest_round": "first",
+        "role": [
+            "contributor"
+        ]
+    },
+    {
+        "name": "Bhavya",
+        "github_handle": "Bhavyabhoomija",
+        "hacktoberfest_round": "first",
+        "role": [
+            "contributor"
+        ]
+    }
+]
